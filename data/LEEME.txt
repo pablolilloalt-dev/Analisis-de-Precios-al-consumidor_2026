@@ -1,0 +1,11 @@
+Datos: "Detalle de Precios Consumidor año 2026" (CSV, ~53 MB, licencia CC-BY)
+Fuente: ODEPA, Ministerio de Agricultura de Chile, vía datos.gob.cl
+Página del conjunto: https://datos.gob.cl/dataset/precios-consumidor2
+
+El archivo no se incluye en el repositorio por su tamaño. Para reproducir el análisis:
+1. Descargar "precio_consumidor_2026.csv" desde la página indicada.
+2. Guardarlo en esta carpeta (data/precio_consumidor_2026.csv).
+3. Ejecutar notebooks/01_analisis_precios_consumidor_2026.ipynb
+
+Los datos del repositorio cubren hasta la semana 47 de 2026 (20-nov-2026).
+Si ODEPA actualiza el archivo, los resultados cambiarán levemente.
